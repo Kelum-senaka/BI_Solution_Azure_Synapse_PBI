@@ -12,13 +12,13 @@ Next step is to store the extrscted data into the azure data lake.Then later it 
 
 
 <p align="center">
-  <img width="30%" height="40%" src="Images/architecture.png">
+  <img width="50%" height="50%" src="Images/architecture.png">
 </p>
 
 For the reporting part I used only audio features.It will present the how audio features are vary with different artist and genres.
 
 <p align="center">
-  <img width="30%" height="40%" src="Images/audio features.png">
+  <img width="50%" height="50%" src="Images/audio features.png">
 </p>
 
 
